@@ -106,5 +106,3 @@ La interfaz `Meses` define constantes y un array con los nombres de los meses.
 ## Ejecución del Programa
 
 El programa crea instancias de polígonos (triángulos y cuadriláteros) y utiliza los métodos definidos para calcular el área, el perímetro y la identificación de las figuras. Además, se crean instancias de instrumentos musicales, específicamente una flauta, y se llaman a sus métodos para tocar, afinar y mostrar el tipo de instrumento.
-
-Este proyecto demuestra la aplicación de conceptos de programación orientada a objetos en Java, como la herencia y el uso de interfaces, permitiendo un diseño modular y extensible.
